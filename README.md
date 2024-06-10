@@ -18,7 +18,12 @@ Coding for fun
         - Change file **tasks.json**:
     1.4. Restart VSCode
 
-
+1. Dog
+    1. German Shepherd
+    2. Belgian Shepherd
+        1. Malinois
+        2. Groenendael
+        3. Tervuren
 
 
 
