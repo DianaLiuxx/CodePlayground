@@ -6,8 +6,8 @@ Coding for fun
 
 ### [Eigen](https://eigen.tuxfamily.org/dox/index.html)
 1. Before Use (Windows + VS Code with C/C++ extension):
-   1.1. Download
-   1.2. Extract
+    1.1. Download
+   - 1.2. Extract
    1.3. In VS Code:
         - Change file **c_cpp_properties.json**: '''json
        "includePath": [
